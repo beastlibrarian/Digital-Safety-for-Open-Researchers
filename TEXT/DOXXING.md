@@ -94,23 +94,23 @@ Having an adversarial mindset about the internet means researching different web
 ## Additional Resources
 
 * [Squadbox (in development)](https://medium.com/squadbox/welcome-de530640b0fd)
-** *A tool to help people experiencing online harassment by having their friends moderate their messages.*
+ *A tool to help people experiencing online harassment by having their friends moderate their messages.*
 
 * [Threat Modeling](https://ssd.eff.org/en/module/assessing-your-risks) 
-** *Created by the Electronic Frontier Foundation, this tools helps you walk through a personal risk assessment.* 
+ *Created by the Electronic Frontier Foundation, this tools helps you walk through a personal risk assessment.* 
 
-* [Preventing Doxxing by Feminist Frequency](https://onlinesafety.feministfrequency.com/en/) ** *Pratical tips on preventing doxxing, setting up secure passwords, website security and more!*
+* [Preventing Doxxing by Feminist Frequency](https://onlinesafety.feministfrequency.com/en/) *Pratical tips on preventing doxxing, setting up secure passwords, website security and more!*
 
-* [Preparing for and Responding to Online Harassment by Pen America](https://onlineharassmentfieldmanual.pen.org/cyber-safety/) ** *Tips for how to prepare for and respond to online harassment.*
+* [Preparing for and Responding to Online Harassment by Pen America](https://onlineharassmentfieldmanual.pen.org/cyber-safety/) *Tips for how to prepare for and respond to online harassment.*
 
-* [Protecting Information from Doxxing by Pen America](https://onlineharassmentfieldmanual.pen.org/cyber-safety/protecting-information-from-doxing/) ** *Practical tips for removing yourself from data broker lists, checking social media privacy settings, disabling geolocation settings, and more!*
+* [Protecting Information from Doxxing by Pen America](https://onlineharassmentfieldmanual.pen.org/cyber-safety/protecting-information-from-doxing/) *Practical tips for removing yourself from data broker lists, checking social media privacy settings, disabling geolocation settings, and more!*
 
 * Lindsay Blackwell, Jill Dimond, Sarita Schoenebeck, and Cliff Lampe. 2017. Classification and Its Consequences for Online Harassment: Design Insights from HeartMob. Proc. ACM Hum.-Comput. Interact., Vol. 1, No. 2, Article 24 (November 2017). [https://doi.org/10.1145/3134659](https://doi.org/10.1145/3134659)
-** *Provides a definition of online harassment and discusses impact.*
+*Provides a definition of online harassment and discusses impact.*
 
-* [Establishing Supportive Cyber Communities by Pen America](https://onlineharassmentfieldmanual.pen.org/cyber-safety/establishing-supportive-cyber-communities/) ** *Tips on how to rally community support to combat cyberbullying.*
+* [Establishing Supportive Cyber Communities by Pen America](https://onlineharassmentfieldmanual.pen.org/cyber-safety/establishing-supportive-cyber-communities/) *Tips on how to rally community support to combat cyberbullying.*
 
-* Whitney Phillips, *This is Why We Can't Have Nice Things: Mapping the Relationship Between Online Trolling and Mainstream Culture.* MIT Press, 2015. ** *Read about this book at [MIT Press](https://mitpress.mit.edu/books/why-we-cant-have-nice-things).*
+* Whitney Phillips, *This is Why We Can't Have Nice Things: Mapping the Relationship Between Online Trolling and Mainstream Culture.* MIT Press, 2015. *Read about this book at [MIT Press](https://mitpress.mit.edu/books/why-we-cant-have-nice-things).*
 
 * Marwick, Blackwell, & Lo ["Best Practices for Conducting Risky Research and Protecting Yourself from Online Harassment."](https://datasociety.net/output/best-practices-for-conducting-risky-research/)
 
