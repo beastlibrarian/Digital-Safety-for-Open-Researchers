@@ -112,16 +112,16 @@ Having an adversarial mindset about the internet means researching different web
 
 * Whitney Phillips, *This is Why We Can't Have Nice Things: Mapping the Relationship Between Online Trolling and Mainstream Culture.* MIT Press, 2015. *Read about this book at [MIT Press](https://mitpress.mit.edu/books/why-we-cant-have-nice-things).*
 
-* Marwick, Blackwell, & Lo ["Best Practices for Conducting Risky Research and Protecting Yourself from Online Harassment."](https://datasociety.net/output/best-practices-for-conducting-risky-research/)
+* Marwick, Blackwell, & Lo ["Best Practices for Conducting Risky Research and Protecting Yourself from Online Harassment."](https://datasociety.net/output/best-practices-for-conducting-risky-research/) *Contains a guide that may be shared with University Administrators on how to support someone undergoing online harassment.  Also contains a practical guide for steps that researchers can take as they start their research, if they are harassed, and basic cyber security measures that can be taken.*
 
-* [FemTechNet's Center for Solutions to Online Violence](https://femtechnet.org/csov/)
+* [FemTechNet's Center for Solutions to Online Violence](https://femtechnet.org/csov/) *Tips on locking down your digital identity or how to survive online bullying and harassment.*
 
 ## Lesson Plans
 
 
 ## See All Suggested Tools and Practices in this Chapter
-* [Tor](https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=1&cad=rja&uact=8&ved=0ahUKEwjzxZv74eTaAhWrjVQKHWRVAZoQFggpMAA&url=https%3A%2F%2Fwww.torproject.org%2Fprojects%2Ftorbrowser.html.en&usg=AOvVaw0QHvNXOPVLKP4aneYQ4yLg)
-* Data brokers
-* [LastPass](https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=1&cad=rja&uact=8&ved=0ahUKEwjL4MW14uTaAhXjq1QKHcDsB-sQFggpMAA&url=https%3A%2F%2Fwww.lastpass.com%2F&usg=AOvVaw22wCGv58rl_Qg-Gh0xa4dX)
-* Two-factor authentication
-* [Diceware method for secure passwords](http://world.std.com/~reinhold/diceware.html)
+* [Tor](https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=1&cad=rja&uact=8&ved=0ahUKEwjzxZv74eTaAhWrjVQKHWRVAZoQFggpMAA&url=https%3A%2F%2Fwww.torproject.org%2Fprojects%2Ftorbrowser.html.en&usg=AOvVaw0QHvNXOPVLKP4aneYQ4yLg) *Browse the web free of fear of electronic surveillance.*
+* Data brokers *Data brokers store and share your personal information (ex. addresses, relatives, employers, etc.) openly on the web. For more information about data brokers and how to remove yourself from data broker sites, see the [Privacy Rights Clearinghouse](https://www.privacyrights.org/topics/people-search-data-brokers)*
+* [LastPass](https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=1&cad=rja&uact=8&ved=0ahUKEwjL4MW14uTaAhXjq1QKHcDsB-sQFggpMAA&url=https%3A%2F%2Fwww.lastpass.com%2F&usg=AOvVaw22wCGv58rl_Qg-Gh0xa4dX) *Password managers host all of login information and passwords to your accounts in a single place.  This can be an effective way to keep track of one secure password, particularly for those who may reuse passwords across several accounts.*
+* Two-factor authentication *Two-factor (or 2FA) authentication allows for a more secure way to log into accounts by requesting not only a password but something the account owner has on them (cell phone text code, token, etc.).*
+* [Diceware method for secure passwords](http://world.std.com/~reinhold/diceware.html) *The diceware method allows user to create random, yet memorable passwords through a random mashup of words created through dice rolls.*
