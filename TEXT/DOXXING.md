@@ -96,7 +96,8 @@ Having an adversarial mindset about the internet means researching different web
 * [Squadbox (in development)](https://medium.com/squadbox/welcome-de530640b0fd)
 ** *A tool to help people experiencing online harassment by having their friends moderate their messages.*
 
-* [Threat Modeling](https://ssd.eff.org/en/module/assessing-your-risks) ** *Created by the Electronic Frontier Foundation, this tools helps you walk through a personal risk assessment.* 
+* [Threat Modeling](https://ssd.eff.org/en/module/assessing-your-risks) 
+** *Created by the Electronic Frontier Foundation, this tools helps you walk through a personal risk assessment.* 
 
 * [Preventing Doxxing by Feminist Frequency](https://onlinesafety.feministfrequency.com/en/) ** *Pratical tips on preventing doxxing, setting up secure passwords, website security and more!*
 
