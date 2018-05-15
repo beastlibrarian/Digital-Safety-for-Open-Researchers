@@ -2,3 +2,4 @@ We would like to thank those who have taken the time to contribute to the creati
 
 Digital Safety for Open Researchers would like to acknowledge the following contributors who helped to make this Open Educational Resource possible: 
 
+Brandon T. Locke
